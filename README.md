@@ -11,4 +11,3 @@ ACM Reference Format: Akifumi Takahashi, Yudai Tanaka, Archit Tamhane, Alan Shen
 ## Contact
 
 For any questions about this repository, please contact yudaitanaka@uchicago.edu
-# watchEMS
