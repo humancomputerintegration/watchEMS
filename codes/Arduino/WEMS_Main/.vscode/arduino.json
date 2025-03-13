@@ -1,0 +1,5 @@
+{
+    "board": "Seeeduino:mbed:xiaonRF52840",
+    "port": "COM22",
+    "sketch": "ArduinoWithPhone.ino"
+}
