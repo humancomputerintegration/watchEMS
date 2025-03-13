@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS62a1")(type "KiCad")(uri "G:/My Drive/DOCUMENTS/KiCad/7.0/opt/DL/ul_XPS62A01DRLR/KiCADv6/2024-01-12_14-31-24.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP73812")(type "KiCad")(uri "G:/My Drive/DOCUMENTS/KiCad/7.0/opt/DL/MCP73812T_420I_OT/KiCADv6/2024-01-12_15-26-48.kicad_sym")(options "")(descr ""))
+)
